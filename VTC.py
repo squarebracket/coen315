@@ -4,10 +4,6 @@ from scipy.interpolate import UnivariateSpline, InterpolatedUnivariateSpline
 import csv
 import pandas as pd
 
-import plotly.plotly as py
-from plotly.graph_objs import *
-py.sign_in('squarebracket', '6edn8gin4t')
-
 
 class VTC(object):
     
